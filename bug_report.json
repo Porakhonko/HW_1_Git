@@ -1,4 +1,4 @@
-"location": {
+{"location": {
   "ancestorOrigins": {},
   "href": "http://localhost:4000/",
   "origin": "http://localhost:4000",
@@ -9,4 +9,4 @@
   "pathname": "/",
   "search": "",
   "hash": "00"
-}
+}}
